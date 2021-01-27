@@ -1,6 +1,21 @@
-
 # Docker LAMP
 Linux + Apache + MariaDB (MySQL) + PHP 7.2 on Docker Compose. Mod_rewrite enabled by default.
+
+## FORKED BY: Etienne Jacquot - 01/26/21 epj@asc.upenn.edu
+
+Testing for NDG web php applications + developer Alan Wagner
+
+- trying to incorporate steps from here into a docker build https://github.com/alanwagner/FhSiteKit
+
+``` bash
+cd docker-lamp
+
+```
+
+
+there is the `vendor/` directory ...
+
+there is also the `app/config/`, I think some of these files are composer created though ...
 
 ## Instructions
 

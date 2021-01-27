@@ -1,0 +1,3 @@
+[submodule "vendor/FhSiteKit"]
+	path = vendor/FhSiteKit
+	url = https://github.com/alanwagner/FhSiteKit.git
